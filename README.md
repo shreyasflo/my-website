@@ -1,3 +1,6 @@
 # My Website
 
-update b4 rebase
+
+## Purpose
+
+This file is just a readme file 
